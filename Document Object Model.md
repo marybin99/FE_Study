@@ -5,10 +5,10 @@
 ## 어떻게 생성되고 어떻게 보여질까?
 - 트리 자료로 구축이 되기 때문에, HTML 문서는 최종적으로 하나의 최상위 노드에서 시작해 자식 노드들을 가지며, 아래로만 뻗어나가는 구조로 만들어지게 됨
 
-![DOM 코드](https://github.com/marybin99/CSstudy/assets/110241993/ebbd7412-e152-449f-9ad9-70d04767b021)
-위 코드를 트리 구조로 표현하면
-![DOM 트리 구조](https://github.com/marybin99/CSstudy/assets/110241993/9da2bce7-57c0-4bf6-b904-5aa76c8b9d3b)
-위와 같음   
+ ![DOM 코드](https://github.com/marybin99/CSstudy/assets/110241993/ebbd7412-e152-449f-9ad9-70d04767b021)   
+ 위 코드를 트리 구조로 표현하면
+ ![DOM 트리 구조](https://github.com/marybin99/CSstudy/assets/110241993/9da2bce7-57c0-4bf6-b904-5aa76c8b9d3b)   
+ 위와 같음   
 
 > <b>"document 노드"</b>가 최상위 노드, <b>"element 노드"</b>가 밑으로 오며,   
 <b>"text 노드"</b>와 <b>"attribute 노드"</b>가 오는 계층적인 구조   
