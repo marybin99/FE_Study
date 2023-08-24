@@ -38,7 +38,7 @@
 
 ## Cancelable Event
 `a` 태그를 사용했지만 기본적인 동작을 막고 싶은 경우, `preventDefault`를 호출   
-```
+```javascript
 aTag.addEventListener('click', e => {
     e.preventDefault()
 })
@@ -59,7 +59,7 @@ addEventListener의 `option.passive`는 default값으로 false를 가짐
 
 ## Stop propagation
 > 이벤트의 전파를 멈출 수도 있음
-```
+```javascript
 element.addEventListener('click', e => {
     e.stopPropagation()
 })
