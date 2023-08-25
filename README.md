@@ -5,3 +5,5 @@
 2️⃣ [Document Object Model](https://github.com/marybin99/CSstudy/blob/main/Document%20Object%20Model.md)
 
 3️⃣ [Document Object Model Event](https://github.com/marybin99/CSstudy/blob/main/Document%20Object%20Model%20Event.md)
+
+4️⃣ [CORS](https://github.com/marybin99/CS/blob/main/CORS.md)
