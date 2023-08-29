@@ -9,3 +9,5 @@
 4️⃣ [CORS](https://github.com/marybin99/CS/blob/main/CORS.md)
 
 5️⃣ [크로스 브라우징](https://github.com/marybin99/CS/blob/main/%ED%81%AC%EB%A1%9C%EC%8A%A4%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95.md)
+
+6️⃣ [웹 성능과 관련된 Issue](https://github.com/marybin99/CS/blob/main/%EC%9B%B9%20%EC%84%B1%EB%8A%A5%EA%B3%BC%20%EA%B4%80%EB%A0%A8%EB%90%9C%20Issue.md)
