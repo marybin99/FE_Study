@@ -19,3 +19,5 @@
 9️⃣ [CSS Methodology (OOCSS, BEM)](https://github.com/marybin99/CS/blob/main/CSS%20Methodology%20(OOCSS%2C%20BEM).md)
 
 🔟 [reset vs normalize](https://github.com/marybin99/CS/blob/main/reset%20vs%20normalize.md)
+
+1️⃣1️⃣ [Javascript Event Loop](https://github.com/marybin99/CS/blob/main/Javascript%20Event%20Loop.md)
