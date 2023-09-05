@@ -21,3 +21,5 @@
 🔟 [reset vs normalize](https://github.com/marybin99/CS/blob/main/CSS/reset%20vs%20normalize.md)
 
 1️⃣1️⃣ [Javascript Event Loop](https://github.com/marybin99/CS/blob/main/JS/Javascript%20Event%20Loop.md)
+
+1️⃣2️⃣ [Hoisting](https://github.com/marybin99/CS/blob/main/JS/Hoisting.md)
