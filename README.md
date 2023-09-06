@@ -17,3 +17,4 @@
 > #### JS   
   > - [Javascript Event Loop](https://github.com/marybin99/CS/blob/main/JS/Javascript%20Event%20Loop.md)   
   > - [Hoisting](https://github.com/marybin99/CS/blob/main/JS/Hoisting.md)   
+  > - [Closure](https://github.com/marybin99/CS/blob/main/JS/Closure.md)
