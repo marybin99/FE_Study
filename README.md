@@ -19,6 +19,7 @@
   > - [Hoisting](https://github.com/marybin99/CS/blob/main/JS/Hoisting.md)   
   > - [Closure](https://github.com/marybin99/CS/blob/main/JS/Closure.md)
   > - [this](https://github.com/marybin99/CS/blob/main/JS/this.md)
+  > - [Promise](https://github.com/marybin99/CS/blob/main/JS/Promise.md) 
 
 > #### ETC
   > - [WebSocket vs socket.io](https://github.com/marybin99/CS/blob/main/WebSocket%20vs%20socket.io.md)
