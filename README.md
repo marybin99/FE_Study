@@ -23,5 +23,8 @@
   > - [lodash](https://github.com/marybin99/CS/blob/main/JS/lodash.md)
   > - [Arrow Function](https://github.com/marybin99/CS/blob/main/JS/Arrow%20Function.md)
 
+> #### Vue
+  > - [Vuex](https://github.com/marybin99/CS/blob/main/Vue/Vuex.md)
+
 > #### ETC
   > - [WebSocket vs socket.io](https://github.com/marybin99/CS/blob/main/WebSocket%20vs%20socket.io.md)
