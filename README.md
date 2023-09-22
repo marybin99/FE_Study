@@ -30,4 +30,4 @@
 
 > #### ETC
   > - [WebSocket vs socket.io](https://github.com/marybin99/CS/blob/main/WebSocket%20vs%20socket.io.md)
-  > - [SCC (알고리즘)](https://github.com/marybin99/CS/blob/main/SCC.md)
+  > - [SCC(알고리즘)](https://github.com/marybin99/CS/blob/main/SCC.md)
