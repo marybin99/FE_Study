@@ -30,7 +30,7 @@
   > - [LifeCycle](https://github.com/marybin99/CS/blob/main/Vue/LifeCycle.md)
 
 > #### Algo
-  > - [SCC(알고리즘)](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
+  > - [SCC](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
 
 > #### ETC
   > - [WebSocket vs socket.io](https://github.com/marybin99/CS/blob/main/WebSocket%20vs%20socket.io.md)
