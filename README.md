@@ -29,6 +29,7 @@
   > - [Vuex](https://github.com/marybin99/CS/blob/main/Vue/Vuex.md)
   > - [LifeCycle](https://github.com/marybin99/CS/blob/main/Vue/LifeCycle.md)
   > - [Vue Spinner](https://github.com/marybin99/CS/blob/main/Vue/Vue%20Spinner.md)
+  > - [v-deep](https://github.com/marybin99/CS/blob/main/Vue/v-deep.md)
 
 > #### Algo
   > - [SCC](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
