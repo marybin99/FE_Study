@@ -13,7 +13,8 @@
 > #### CSS   
   > - [CSS Methodology (SMAMCSS)](https://github.com/marybin99/CS/blob/main/CSS/CSS%20Methodology%20(SMACSS).md)   
   > - [CSS Methodology (OOCSS, BEM)](https://github.com/marybin99/CS/blob/main/CSS/CSS%20Methodology%20(OOCSS%2C%20BEM).md)   
-  > - [reset vs normalize](https://github.com/marybin99/CS/blob/main/CSS/reset%20vs%20normalize.md)   
+  > - [reset vs normalize](https://github.com/marybin99/CS/blob/main/CSS/reset%20vs%20normalize.md)
+  > - [가상요소](https://github.com/marybin99/CS/blob/main/CSS/%EA%B0%80%EC%83%81%EC%9A%94%EC%86%8C.md)
 
 > #### JS   
   > - [Javascript Event Loop](https://github.com/marybin99/CS/blob/main/JS/Javascript%20Event%20Loop.md)   
