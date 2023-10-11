@@ -25,6 +25,7 @@
   > - [Axios vs Fetch](https://github.com/marybin99/CS/blob/main/JS/Axios%20vs%20Fetch.md)
   > - [lodash](https://github.com/marybin99/CS/blob/main/JS/lodash.md)
   > - [Arrow Function](https://github.com/marybin99/CS/blob/main/JS/Arrow%20Function.md)
+  > - [Array 함수](https://github.com/marybin99/CS/blob/main/JS/Array%20%ED%95%A8%EC%88%98.md)
   > - [자주 나오는 JS 질문](https://github.com/marybin99/CS/blob/main/JS/JS%20Question.md)
 
 > #### Vue
