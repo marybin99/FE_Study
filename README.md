@@ -32,6 +32,7 @@
   > - [LifeCycle](https://github.com/marybin99/CS/blob/main/Vue/LifeCycle.md)
   > - [Vue Spinner](https://github.com/marybin99/CS/blob/main/Vue/Vue%20Spinner.md)
   > - [v-deep](https://github.com/marybin99/CS/blob/main/Vue/v-deep.md)
+  > - [v-bind:is](https://github.com/marybin99/CS/blob/main/Vue/v-bind%3Ais.md) 
 
 > #### Algo
   > - [SCC](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
