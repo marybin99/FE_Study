@@ -17,6 +17,7 @@
   > - [가상요소](https://github.com/marybin99/CS/blob/main/CSS/%EA%B0%80%EC%83%81%EC%9A%94%EC%86%8C.md)
 
 > #### JS   
+  > - [자주 나오는 JS 질문](https://github.com/marybin99/CS/blob/main/JS/JS%20Question.md)
   > - [Javascript Event Loop](https://github.com/marybin99/CS/blob/main/JS/Javascript%20Event%20Loop.md)   
   > - [Hoisting](https://github.com/marybin99/CS/blob/main/JS/Hoisting.md)   
   > - [Closure](https://github.com/marybin99/CS/blob/main/JS/Closure.md)
@@ -26,7 +27,6 @@
   > - [lodash](https://github.com/marybin99/CS/blob/main/JS/lodash.md)
   > - [Arrow Function](https://github.com/marybin99/CS/blob/main/JS/Arrow%20Function.md)
   > - [Array 함수](https://github.com/marybin99/CS/blob/main/JS/Array%20%ED%95%A8%EC%88%98.md)
-  > - [자주 나오는 JS 질문](https://github.com/marybin99/CS/blob/main/JS/JS%20Question.md)
 
 > #### Vue
   > - [Vuex](https://github.com/marybin99/CS/blob/main/Vue/Vuex.md)
@@ -37,6 +37,7 @@
 
 > #### Algo
   > - [SCC](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
+  > - [JS로 Queue구현하기](https://github.com/marybin99/CS/blob/main/Algo/Queue.md)
 
 > #### ETC
   > - [WebSocket vs socket.io](https://github.com/marybin99/CS/blob/main/WebSocket%20vs%20socket.io.md)
