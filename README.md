@@ -27,6 +27,7 @@
   > - [lodash](https://github.com/marybin99/CS/blob/main/JS/lodash.md)
   > - [Arrow Function](https://github.com/marybin99/CS/blob/main/JS/Arrow%20Function.md)
   > - [Array 함수](https://github.com/marybin99/CS/blob/main/JS/Array%20%ED%95%A8%EC%88%98.md)
+  > - [객체 복사, 복제](https://github.com/marybin99/FE_Study/blob/main/JS/%EA%B0%9D%EC%B2%B4%20%EB%B3%B5%EC%82%AC%26%EB%B3%B5%EC%A0%9C.md)
 
 > #### Vue
   > - [Vuex](https://github.com/marybin99/CS/blob/main/Vue/Vuex.md)
