@@ -35,6 +35,7 @@
   > - [Vue Spinner](https://github.com/marybin99/CS/blob/main/Vue/Vue%20Spinner.md)
   > - [v-deep](https://github.com/marybin99/CS/blob/main/Vue/v-deep.md)
   > - [v-bind:is](https://github.com/marybin99/CS/blob/main/Vue/v-bind%3Ais.md) 
+  > - [메모리 낭비 최소화하기](https://github.com/marybin99/FE_Study/blob/main/Vue/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%82%AD%EB%B9%84%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0.md)
 
 > #### Algo
   > - [SCC](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
