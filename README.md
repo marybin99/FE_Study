@@ -36,6 +36,7 @@
   > - [v-deep](https://github.com/marybin99/CS/blob/main/Vue/v-deep.md)
   > - [v-bind:is](https://github.com/marybin99/CS/blob/main/Vue/v-bind%3Ais.md) 
   > - [메모리 낭비 최소화하기](https://github.com/marybin99/FE_Study/blob/main/Vue/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%82%AD%EB%B9%84%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0.md)
+  > - [이벤트 수식어](https://github.com/marybin99/FE_Study/blob/main/Vue/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%88%98%EC%8B%9D%EC%96%B4.md)
 
 > #### Algo
   > - [SCC](https://github.com/marybin99/CS/blob/main/Algo/SCC.md)
